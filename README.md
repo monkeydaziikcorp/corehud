@@ -1,4 +1,4 @@
-# Core-HUD par !HassanK#6666
+# Core-HUD par HASH.lua
 
 Bonjour à tous je vous présente aujourd'hui un HUD bien sympas !
 
